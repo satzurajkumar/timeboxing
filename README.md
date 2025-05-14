@@ -1,4 +1,4 @@
-﻿# 12-Week Plan to Learn NLP, Computer Vision, AI/ML and Build Semantic Search/Recommendation Systems
+﻿# Tzu's 12-Week Plan to Learn NLP, Computer Vision, AI/ML and Build Semantic Search/Recommendation Systems
 
 ## Prerequisites
 
