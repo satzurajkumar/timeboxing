@@ -99,7 +99,7 @@
 - **Freelance Gigs**: Offer semantic search/recommendation solutions on Upwork/Fiverr. Maybe start with small projects.
 - **Kaggle Competitions**: Join NLP or Vision competitions for cash prizes and visibility.
 - **Small Business Solutions**: Approach local businesses with tailored AI tools.
-- **Portfolio**: Showcase projects on GitHub and LinkedIn. Share demo videos to attract clients.
+- **Portfolio**: Showcase projects on your portfolio site using GitHub pages and use social media platforms to funnel to your portfolio. Share demo videos to attract clients.
 
 ## Tips to Stay on Track
 
