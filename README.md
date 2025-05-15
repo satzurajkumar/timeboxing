@@ -37,7 +37,8 @@
   - Learn word embeddings (Word2Vec, GloVe): 3 hours (Stanford NLP course, free online).
   - Practice with NLTK/spaCy: 4 hours (e.g., tokenize a dataset, extract entities).
   - **Mini-Project**: Build a sentiment analysis model using a dataset (e.g., IMDB reviews) with scikit-learn or Hugging Face transformers. Timebox: 6 hours.
-- **Resources**: NLTK book (free online), Hugging Face tutorials, Kaggle NLP datasets.
+- **Resources**: NLTK book (free online) https://books.google.com.np/books?id=0J_cDgAAQBAJ&printsec=copyright#v=onepage&q&f=true
+  , Hugging Face tutorials, Kaggle NLP datasets.
 - **Outcome**: Ability to preprocess text and build basic NLP models.
 
 ## Week 5-6: Computer Vision Basics
