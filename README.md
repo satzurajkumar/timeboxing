@@ -89,7 +89,7 @@
   - Learn collaborative filtering and content-based recommendation: 5 hours (Coursera’s Recommender Systems, free audit).
   - Study matrix factorization and hybrid models: 3 hours.
   - Practice building a simple recommender (e.g., movie recommendations): 3 hours.
-  - **Project**: Build a recommendation system (e.g., recommend products based on user history) using collaborative filtering or embeddings. Timebox: 8 hours.
+  - **Project**: Build a recommendation system (e.g., recommend products based on user history) using collaborative filtering. Timebox: 8 hours.
   - **Earning Prep**: Create a portfolio (GitHub with projects, 2-3 minute demo videos). Research freelance platforms (Upwork, Fiverr) and Kaggle competitions for AI tasks: 4 hours.
 - **Resources**: Kaggle datasets, Recommender Systems (Coursera), Upwork/Fiverr.
 - **Outcome**: Functional recommender system and portfolio to pitch for gigs.
