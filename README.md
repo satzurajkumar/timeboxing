@@ -6,6 +6,10 @@
 - Familiarity with Jupyter Notebooks.
 - Install: Python 3.8+, pip, Jupyter, libraries (NumPy, pandas, scikit-learn, TensorFlow/PyTorch, NLTK, spaCy, OpenCV).
 
+## Goals & Motivation
+
+- To build a production grade Search and Recommendation system
+
 ## General Guidelines
 
 - **Time Commitment**: 15-20 hours/week (2-3 hours/day, 5-6 days/week).
