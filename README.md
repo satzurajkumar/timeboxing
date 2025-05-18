@@ -6,8 +6,7 @@
 - Familiarity with Jupyter Notebooks.
 - Install: Python 3.8+, pip, Jupyter, libraries (NumPy, pandas, scikit-learn, TensorFlow/PyTorch, NLTK, spaCy, OpenCV).
 
-## Goals & Motivation
-
+## Goals 
 - To build a production grade Search and Recommendation system
 
 ## General Guidelines
